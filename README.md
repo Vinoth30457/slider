@@ -4,9 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Live links
 
-GitHub [click here]()
+GitHub [click here](https://github.com/Vinoth30457/slider.git)
 
-Live URL [click here]()
+Live URL [click here](https://64c22f960ae95f5f0ca22746--scintillating-kitten-4d80d7.netlify.app/)
 
 ## Available Scripts
 
